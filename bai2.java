@@ -1,6 +1,6 @@
 // viết một chương trình nhập vào số n và in ra bảng nhân của số đó
 import java.util.Scanner;
-public class in_ra_bang_nhan {
+public class bai2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 //viết chương trình tính giai thừa chủa số n
 import java.util.Scanner;
 
-public class tinh_giai_thua {
+public class bai3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

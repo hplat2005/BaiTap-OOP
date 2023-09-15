@@ -1,7 +1,7 @@
 // viết chương trình nhập n , từ đó in ra 1/1 + 1/2 + 1/n
 import java.util.Scanner;
 
-public class tinh_tong_1_phan {
+public class bai5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

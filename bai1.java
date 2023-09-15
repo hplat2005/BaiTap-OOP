@@ -4,7 +4,7 @@
  */
 import java.util.Scanner;
 
-public class tinh_tong_n_so_tu_nhien {
+public class bai1 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 

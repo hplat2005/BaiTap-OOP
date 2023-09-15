@@ -1,5 +1,5 @@
 //viết chương trình tìm số amstrong
-public class so_amstrong_la_gi{
+public class bai6{
     public static void main(String[] args) {
         for (int number = 1; number <= 500; number++) {
             if (chinh_la_amstrong(number)) {
